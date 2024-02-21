@@ -19,9 +19,9 @@ Linear Regression\
 Random forest Regressor\
 XGBoost Regressor\
 SARIMA\
-LSMT\
+LSMT
 
 ## Outcome
 The best model is the Random forest Regressor, which have the highest R2 score. In addition to statistical metrics, Random Forest predictions closely matched the true values. \
 Predictions of Random Forest:\
-![image](https://github.com/lovehideto/Walmart_Weekly_Sales_Prediction_Time_Series_Forecasting/blob/main/IMG/Picture1.png)
+![image](https://github.com/lovehideto/Walmart_Weekly_Sales_Prediction_Time_Series_Forecasting/blob/main/IMG/download.png)
