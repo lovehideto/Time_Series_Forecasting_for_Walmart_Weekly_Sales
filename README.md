@@ -1,6 +1,6 @@
 # Patient Survival Prediction Project
 
-![Title image](https://github.com/lovehideto/Patient-Patient-Survival-Prediction-Project/blob/main/IMG/dataset-cover.jpeg](https://github.com/lovehideto/Walmart_Weekly_Sales_Prediction_Time_Series_Forecasting/blob/main/IMG/WX20240221-154835%402x.png)
+![Title image](https://github.com/lovehideto/Walmart_Weekly_Sales_Prediction_Time_Series_Forecasting/blob/main/IMG/WX20240221-154835%402x.png)
 
 ## Problem Statement:
 
